@@ -19,9 +19,7 @@ I'm a student in Computer Science - Data Science and Cybersecurity at Bangkok Un
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lemoncake_sou) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ruijira-navaen-8127322ba) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/SweetLemonCakezzzzz) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@lemoncake001) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PinkLemon2004&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PinkLemon2004&theme=shadow_red&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PinkLemon2004&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api?username=PinkLemon2004&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=PinkLemon2004&theme=shadow_green&hide_border=false)
 
 
