@@ -7,7 +7,6 @@ Cyber Security Student
 I'm a student in Computer Science - Data Science and Cybersecurity at Bangkok University. I enjoy technology, but I also have a fondness for vintage-style items. In my free time, I dabble in 3D design, watch Korean dramas, play games, eat, and sleep. These are my favorite ways to relax.
 
 * 🌍  I'm based in Thailand-Bangkok
-* 🔭 I’m currently working on Whatever Feels Right.
 * 🧠  I'm learning Everything I Want to Learn.
 * 🤝  I'm open to collaborating on Myself.
 * 🍜  I love eating som tam and noodles.
