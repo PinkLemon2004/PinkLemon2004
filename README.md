@@ -11,7 +11,7 @@ I'm a student in Computer Science - Data Science and Cybersecurity at Bangkok Un
 * 🤝  I'm open to collaborating on Myself.
 * 🍜  I love eating som tam and noodles.
 
-![](https://github-readme-stats.vercel.app/api?username=PinkLemon2004&theme=bear&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=PinkLemon2004&theme=omni&hide_border=false&include_all_commits=true&count_private=true)
 
 
 # 💻 Tech Stack:
