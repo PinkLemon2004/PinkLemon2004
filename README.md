@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cyber Security Student
 ----------------------
 
-I'm a second-year student in Computer Science - Data Science and Cybersecurity at Bangkok University. I enjoy technology, but I also have a fondness for vintage-style items. In my free time, I dabble in 3D design, watch Korean dramas, play games, eat, and sleep. These are my favorite ways to relax.
+I'm a second-year student in Computer Science - Data Science and Cybersecurity at Bangkok University. I enjoy technology, but I also have a fondness for vintage-style items. In my free time, I do 3D modeling, watch Korean dramas, play games, eat, and sleep. These are my favorite ways to relax.
 
 * 🔭 I’m currently working on Whatever Feels Right.
 * 🌍  I'm based in Thailand-Bangkok
