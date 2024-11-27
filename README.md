@@ -4,10 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cyber Security Student
 ----------------------
 
-I'm a student in Computer Science - Data Science and Cybersecurity at Bangkok University. I enjoy technology, but I also have a fondness for vintage-style items. In my free time, I make 3D models, watch Kdramas, play games, eat, and sleep. These are my favorite ways to relax.
-
-* 🍜  I love eating som tam and noodles.
-
 ![](https://github-readme-stats.vercel.app/api?username=PinkLemon2004&theme=omni&hide_border=false&include_all_commits=true&count_private=true)
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/a3/49/42/a349425ae32290a0fb222b3990049389.gif">
 # 💻 Tech Stack:
