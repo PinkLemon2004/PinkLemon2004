@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nuey(เนย)
 =================================================================================================================================
 
-Cybersecurity Student
+Cyber security Student
 ----------------------
 
 ![](https://github-readme-stats.vercel.app/api?username=PinkLemon2004&theme=omni&hide_border=false&include_all_commits=true&count_private=true)
