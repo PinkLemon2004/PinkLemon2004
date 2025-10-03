@@ -11,8 +11,6 @@ Cyber security Student
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lemoncake_sou) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/SweetLemonCakezzzzz) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@lemoncake001)
-
 ----
 [![](https://visitcount.itsvg.in/api?id=PinkLemon&icon=0&color=4)](https://visitcount.itsvg.in)
 
